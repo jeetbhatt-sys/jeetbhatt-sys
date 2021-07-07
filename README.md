@@ -1,7 +1,7 @@
 ### Hi there 👋
-I'm Jeet Bhatt 🔭 Masters in Computer Science from Thapar Institute of Engineering And Technology.
+I'm Jeet Bhatt 
 
-⚡ Mentor of Data Structure and Algorithms at Ineuron Intelligence.
+🔭 Masters in Computer Science from Thapar Institute of Engineering And Technology.
 
 👯 Worked as Graduate Engineer Trainee at R&D unit Nokia Networks
 
