@@ -7,6 +7,6 @@ I'm Jeet Bhatt
 
 💬 All of my projects are available at https://github.com/jeetbhatt-sys/
 
-📫 Reach me at jeetbhatt.va@gmail.com@gmail.com
+📫 Reach me at jeetbhatt.va@gmail.com
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=jeetbhatt-sys)
