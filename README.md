@@ -3,7 +3,7 @@ I'm Jeet Bhatt
 
 🔭 Masters in Computer Science from Thapar Institute of Engineering And Technology.
 
-👯 Worked as Graduate Engineer Trainee at R&D unit Nokia Networks
+👯 Working as Graduate Engineer Trainee at R&D unit Nokia Networks
 
 💬 All of my projects are available at https://github.com/jeetbhatt-sys/
 
