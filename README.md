@@ -8,7 +8,7 @@ I'm Jeet Bhatt
 
 ![](https://komarev.com/ghpvc/?username=Jeetbhatt-sys&label=PROFILE+VIEWS&color=green)
 
-<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://user-images.githubusercontent.com/57107608/194836321-d2017f00-8769-49db-a599-bb5dee36d94a.png" alt="Jeet Bhatt | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://user-images.githubusercontent.com/57107608/194836321-d2017f00-8769-49db-a599-bb5dee36d94a.png" alt="Jeet Bhatt | LinkedIn" width="100px"/></a>
 
 
 🔭 Masters in Computer Science from Thapar Institute of Engineering And Technology.
