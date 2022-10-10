@@ -5,7 +5,7 @@ I'm Jeet Bhatt
 <img width=”200" height=”200" src="https://user-images.githubusercontent.com/57107608/194834876-c797fe88-286d-4879-ab0c-30f583556726.png" alt=”my banner”>
 </p>
 
-<a href=”https://www.linkedin.com//in//bhatt-jeet//"> 
+<a href=”https://www.linkedin.com/in/bhatt-jeet"> 
 <img align=”left” src="https://user-images.githubusercontent.com/57107608/194836321-d2017f00-8769-49db-a599-bb5dee36d94a.png" alt=”Jeet Bhatt | LinkedIn” width=”21px”/>
 </a>
 
