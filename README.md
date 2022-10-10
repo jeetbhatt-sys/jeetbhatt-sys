@@ -5,6 +5,7 @@ I'm Jeet Bhatt
 <img width=”200" height=”200" src="https://user-images.githubusercontent.com/57107608/194834876-c797fe88-286d-4879-ab0c-30f583556726.png" alt=”my banner”>
 </p>
 
+<a href=”https://www.linkedin.com/in/bhatt-jeet/"><img align=”left” src=”https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt=”Yu Shi | LinkedIn” width=”21px”/></a>
 
 ![](https://komarev.com/ghpvc/?username=Jeetbhatt-sys&label=PROFILE+VIEWS&color=green)
 
