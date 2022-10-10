@@ -36,3 +36,8 @@ Linkedin : https://www.linkedin.com/in/jeetbhatt1301/
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&color=CC0000)
 
 </br>
+
+![](https://img.shields.io/badge/Tools-anaconda-informational?style=flat&logo=anaconda&color=F24E1E)
+![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&color=430098)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
