@@ -41,3 +41,6 @@ Linkedin : https://www.linkedin.com/in/jeetbhatt1301/
 ![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&color=430098)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeetbhatt-sys&layout=compact)](https://github.com/jeetbhatt-sys)
