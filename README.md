@@ -2,7 +2,7 @@
 I'm Jeet Bhatt 
 
 <p align=”center”>
-<img width=”200" height=”200" src="![Jitender Bhatt(Jeet)](https://user-images.githubusercontent.com/57107608/194834876-c797fe88-286d-4879-ab0c-30f583556726.png)" alt=”my banner”>
+<img width=”200" height=”200" src="https://user-images.githubusercontent.com/57107608/194834876-c797fe88-286d-4879-ab0c-30f583556726.png" alt=”my banner”>
 </p>
 
 
