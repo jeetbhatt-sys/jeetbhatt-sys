@@ -41,12 +41,12 @@ Linkedin : https://www.linkedin.com/in/jeetbhatt1301/
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" alt="anaconda" width="65" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="65" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" alt="tensorflow" width="65" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" alt="tensorflow" width="65" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="65" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="65"/>
 
   
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="65" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="65" />
 </p> </br></br>
 
 [![](https://activity-graph.herokuapp.com/graph?username=jeetbhatt-sys&theme=react)](https://github.com/jeetbhatt-sys/github-readme-activity-graph)
