@@ -25,3 +25,14 @@ I'm Jeet Bhatt
 Linkedin : https://www.linkedin.com/in/jeetbhatt1301/
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=jeetbhatt-sys)
+
+## 💼 Technical Skills
+
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=61DAFB)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&color=764ABC)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C++&color=764ABC)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
+![](https://https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sql&color=CC342D)
+![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&color=CC0000)
+
+</br>
