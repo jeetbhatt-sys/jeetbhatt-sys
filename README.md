@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Jeet Bhatt 
 
-![](https://komarev.com/ghpvc/?username=Jeetbhatt-sys&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=Jeetbhatt-sys&label=PROFILE+VIEWS&color=green)
 
 🔭 Masters in Computer Science from Thapar Institute of Engineering And Technology.
 
