@@ -47,7 +47,7 @@ Linkedin : https://www.linkedin.com/in/jeetbhatt1301/
 
   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="65" height="45"/>
-</p>
+</p> </br></br>
 
 [![](https://activity-graph.herokuapp.com/graph?username=jeetbhatt-sys&theme=react)](https://github.com/jeetbhatt-sys/github-readme-activity-graph)
 
