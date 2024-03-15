@@ -22,7 +22,7 @@ I'm Jeet Bhatt
 
 📫 Reach me at jeetbhatt.va@gmail.com
 
-Linkedin : https://www.linkedin.com/in/jeetbhatt1301/
+Linkedin : https://www.linkedin.com/in/bhatt-jeet/
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=jeetbhatt-sys)
 
